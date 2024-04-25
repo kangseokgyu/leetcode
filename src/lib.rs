@@ -1,3 +1,3 @@
-pub mod add_two_number;
+pub mod two_sum;
 
 pub struct Solution {}
